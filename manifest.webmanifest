@@ -1,0 +1,14 @@
+{
+	"name": "Morse Traduction",
+	"short_name": "Morse Trad",
+	"description": "Une application traduisant le traduisant le texte en morse",
+	"display": "standalone",
+	"background_color": "black",
+	"icons": [
+	    {
+	        "src":"/assets/icon.png",
+	        "sizes": "161x187",
+	        "type": "image/png"
+	    }
+	]
+}

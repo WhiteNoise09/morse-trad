@@ -1,0 +1,30 @@
+body {
+				margin: 0;
+				padding: 0;
+				background: black;
+}
+
+#main-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+
+textarea {
+				margin: 0;
+				padding-left: 15px;
+				padding-right: 15px;
+				padding-top: 5px;
+				background: inherit;
+				color: white;
+				flex: 1;
+}				
+
+textarea:focus {
+  outline: none;
+}
+
+#text {
+				border-bottom: 5px groove grey;
+}
