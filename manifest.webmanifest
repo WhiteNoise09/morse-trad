@@ -7,7 +7,7 @@
 	"icons": [
 	    {
 	        "src":"/assets/icon-72.png",
-	        "sizes": "72x972",
+	        "sizes": "72x72",
 	        "type": "image/png"
 	    },
 	    {
